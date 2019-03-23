@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "nconf": "^0.10.0"
+  },
+  "name": "y",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "@types/react-toastify": "^4.0.2",
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boazhoch/calculator-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boazhoch/calculator-server/issues"
+  },
+  "homepage": "https://github.com/boazhoch/calculator-server#readme",
+  "description": ""
+}
